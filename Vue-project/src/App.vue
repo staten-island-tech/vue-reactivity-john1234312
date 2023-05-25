@@ -6,7 +6,6 @@
     },
     data(){
       return {
-        booksVisible: false, 
         books: [
           {
             title: "Brothers Karamzov" ,
